@@ -1,6 +1,7 @@
 # CryptoHood - Your Crypto Market Tracker
 
-![CryptoHood Logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Flogowik.com%2Fethereum-vector-logo-1-7602.html&psig=AOvVaw35db_ovwlY6NttxYhaQS_a&ust=1691048799705000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCNjJ1-m9vYADFQAAAAAdAAAAABAE)
+<img src="./eth_logo.jpeg" alt="CryptoHood Logo" width="150px" height="100px" />
+
 
 CryptoHood is a mobile app that brings you real-time crypto market data from various APIs and displays it on your mobile phone. Stay updated with the latest prices, volatility, and volume of your favorite cryptocurrencies. You can even set favorites and log in with user authentication for a personalized experience.
 
