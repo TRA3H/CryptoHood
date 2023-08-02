@@ -57,12 +57,13 @@ At CryptoHood, we take your privacy and security seriously. Your personal data a
 
 CryptoHood was founded by a team of passionate crypto enthusiasts who wanted to create a user-friendly and reliable app for crypto market tracking. Our mission is to empower users with accurate and real-time data, enabling them to navigate the crypto market with confidence.
 
-Follow us on social media for updates and exciting news:
-
-- Twitter: [twitter.com/CryptoHoodApp](link_to_your_twitter)
-- Facebook: [facebook.com/CryptoHoodApp](link_to_your_facebook)
-- Instagram: [instagram.com/CryptoHoodApp](link_to_your_instagram)
+- Design: Rina
+- API Handling: Rina Sean Cyrus
+- Dynamic Page Routing: Rina Sean Cyrus
+- Functionality: Sean Cyrus
+- Database: Sean
+- Testing: Rina Sean Cyrus
 
 Thank you for choosing CryptoHood! Happy crypto tracking!
 
-*Note: The above text is a sample README file for the "CryptoHood" app. Replace the placeholders (e.g., link_to_your_logo, link_to_google_play, etc.) with actual links and relevant information about your app. Also, make sure to include any legal disclaimers, terms of use, or privacy policies required for your app.*
+
